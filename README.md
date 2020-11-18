@@ -16,7 +16,7 @@ The model could be optimized using hyperparameter tuning. However, the goal of t
 # Dataset
 https://www.kaggle.com/zubairsamo/setidataset
 
-## Requirements
+# Requirements
 
 Type below command in cmd to get up and running with the dependencies of the file.
 ```
@@ -25,7 +25,7 @@ pip install -r requirement.txt
  git clone https://github.com/zubairsamo/Outer_Space_Radio_Signals-Classification
 .git
 
-## Usage
+# Usage
 Outer_Space_Radio_Signals-Classification
 .ipynb
 
